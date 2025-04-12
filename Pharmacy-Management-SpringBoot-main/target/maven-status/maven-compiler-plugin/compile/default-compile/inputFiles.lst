@@ -1,0 +1,13 @@
+/Users/Jay/Downloads/Pharmacy-Management-SpringBoot-main/src/main/java/com/pharmacy/Management/controllers/SupplierController.java
+/Users/Jay/Downloads/Pharmacy-Management-SpringBoot-main/src/main/java/com/pharmacy/Management/PharmacyManagementApplication.java
+/Users/Jay/Downloads/Pharmacy-Management-SpringBoot-main/src/main/java/com/pharmacy/Management/controllers/StockController.java
+/Users/Jay/Downloads/Pharmacy-Management-SpringBoot-main/src/main/java/com/pharmacy/Management/repository/SupplierRepository.java
+/Users/Jay/Downloads/Pharmacy-Management-SpringBoot-main/src/main/java/com/pharmacy/Management/services/SupplierService.java
+/Users/Jay/Downloads/Pharmacy-Management-SpringBoot-main/src/main/java/com/pharmacy/Management/controllers/homeController.java
+/Users/Jay/Downloads/Pharmacy-Management-SpringBoot-main/src/main/java/com/pharmacy/Management/models/Stock.java
+/Users/Jay/Downloads/Pharmacy-Management-SpringBoot-main/src/main/java/com/pharmacy/Management/services/StockService.java
+/Users/Jay/Downloads/Pharmacy-Management-SpringBoot-main/src/main/java/com/pharmacy/Management/services/HomeService.java
+/Users/Jay/Downloads/Pharmacy-Management-SpringBoot-main/src/main/java/com/pharmacy/Management/DTO/SupplierDTO.java
+/Users/Jay/Downloads/Pharmacy-Management-SpringBoot-main/src/main/java/com/pharmacy/Management/DTO/StockDTO.java
+/Users/Jay/Downloads/Pharmacy-Management-SpringBoot-main/src/main/java/com/pharmacy/Management/models/Supplier.java
+/Users/Jay/Downloads/Pharmacy-Management-SpringBoot-main/src/main/java/com/pharmacy/Management/repository/StockRepository.java
